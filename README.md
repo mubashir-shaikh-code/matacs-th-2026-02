@@ -11,6 +11,6 @@ I disagreed with the AI in two places. It first made a flow diagram for me, but 
 Files
 
 Process flow diagram: [(diagram/process-flow.jpeg)]
-Write-up: [WRITEUP.md]
+Write-up: [WRITEUP.md](WRITEUP.md)
 Prompts: [PROMPTS.md](PROMPTS.md)
 Ranking: [ranking.json](ranking.json)
